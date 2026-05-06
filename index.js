@@ -44,7 +44,7 @@ Genera un ebook completo en español. Responde SOLO con JSON válido, sin texto 
   "color_primario": "#e85d04",
   "color_secundario": "#f48c06",
   "emoji_tema": "🧄",
-  "prompt_imagen": "Professional cartoon illustration of [describe persona target del producto] in [contexto relevante], flat design style, vibrant warm colors ${color_primario}, portrait orientation, high quality digital art, no text",
+  "prompt_imagen": "Professional cartoon illustration of [describe persona target del producto] in [contexto relevante], flat design style, vibrant warm colors orange coral yellow, portrait orientation, high quality digital art, no text",
   "capitulos": [
     {
       "numero": 1,
